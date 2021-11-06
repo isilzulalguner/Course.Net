@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ders_4\ders_4\bin\Debug\ders_4.exe.config
+C:\Users\Asus\source\repos\ders_4\ders_4\bin\Debug\ders_4.exe
+C:\Users\Asus\source\repos\ders_4\ders_4\bin\Debug\ders_4.pdb
+C:\Users\Asus\source\repos\ders_4\ders_4\obj\Debug\ders_4.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ders_4\ders_4\obj\Debug\ders_4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ders_4\ders_4\obj\Debug\ders_4.exe
+C:\Users\Asus\source\repos\ders_4\ders_4\obj\Debug\ders_4.pdb
