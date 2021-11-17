@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ders_9\ders_9\bin\Debug\ders_9.exe.config
+C:\Users\Asus\source\repos\ders_9\ders_9\bin\Debug\ders_9.exe
+C:\Users\Asus\source\repos\ders_9\ders_9\bin\Debug\ders_9.pdb
+C:\Users\Asus\source\repos\ders_9\ders_9\obj\Debug\ders_9.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ders_9\ders_9\obj\Debug\ders_9.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ders_9\ders_9\obj\Debug\ders_9.exe
+C:\Users\Asus\source\repos\ders_9\ders_9\obj\Debug\ders_9.pdb
