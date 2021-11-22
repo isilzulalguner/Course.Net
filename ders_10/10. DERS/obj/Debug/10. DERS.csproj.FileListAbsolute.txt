@@ -1,0 +1,15 @@
+D:\c# dersleri\10. DERS\10. DERS\bin\Debug\_10.DERS.exe.config
+D:\c# dersleri\10. DERS\10. DERS\bin\Debug\_10.DERS.exe
+D:\c# dersleri\10. DERS\10. DERS\bin\Debug\_10.DERS.pdb
+D:\c# dersleri\10. DERS\10. DERS\obj\Debug\10. DERS.csproj.AssemblyReference.cache
+D:\c# dersleri\10. DERS\10. DERS\obj\Debug\10. DERS.csproj.SuggestedBindingRedirects.cache
+D:\c# dersleri\10. DERS\10. DERS\obj\Debug\10. DERS.csproj.CoreCompileInputs.cache
+D:\c# dersleri\10. DERS\10. DERS\obj\Debug\_10.DERS.exe
+D:\c# dersleri\10. DERS\10. DERS\obj\Debug\_10.DERS.pdb
+C:\Users\Asus\Downloads\10. DERS\10. DERS abstract\10. DERS\bin\Debug\_10.DERS.exe.config
+C:\Users\Asus\Downloads\10. DERS\10. DERS abstract\10. DERS\bin\Debug\_10.DERS.exe
+C:\Users\Asus\Downloads\10. DERS\10. DERS abstract\10. DERS\bin\Debug\_10.DERS.pdb
+C:\Users\Asus\Downloads\10. DERS\10. DERS abstract\10. DERS\obj\Debug\10. DERS.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\10. DERS\10. DERS abstract\10. DERS\obj\Debug\10. DERS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\10. DERS\10. DERS abstract\10. DERS\obj\Debug\_10.DERS.exe
+C:\Users\Asus\Downloads\10. DERS\10. DERS abstract\10. DERS\obj\Debug\_10.DERS.pdb
