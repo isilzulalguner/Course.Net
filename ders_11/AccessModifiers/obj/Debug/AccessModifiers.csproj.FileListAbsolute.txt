@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\bin\Debug\ders_11.exe
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\bin\Debug\ders_11.pdb
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\bin\Debug\ders_11.exe.config
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\Asus\source\repos\ders_11\AccessModifiers\obj\Debug\AccessModifiers.pdb
