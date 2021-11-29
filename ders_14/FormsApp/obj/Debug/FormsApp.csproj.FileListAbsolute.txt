@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\ders_14\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Users\Asus\source\repos\ders_14\FormsApp\bin\Debug\FormsApp.exe
+C:\Users\Asus\source\repos\ders_14\FormsApp\bin\Debug\FormsApp.pdb
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.Form1.resources
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.exe
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.pdb
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.Form2.resources
+C:\Users\Asus\source\repos\ders_14\FormsApp\obj\Debug\FormsApp.Form3.resources
