@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\ders_15\ders_15\bin\Debug\ders_15.exe.config
+C:\Users\Asus\source\repos\ders_15\ders_15\bin\Debug\ders_15.exe
+C:\Users\Asus\source\repos\ders_15\ders_15\bin\Debug\ders_15.pdb
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.Form1.resources
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.Properties.Resources.resources
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.exe
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.pdb
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.Form2.resources
+C:\Users\Asus\source\repos\ders_15\ders_15\obj\Debug\ders_15.frmDatagrd.resources
