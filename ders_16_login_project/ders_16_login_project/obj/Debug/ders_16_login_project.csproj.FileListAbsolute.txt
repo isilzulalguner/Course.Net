@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.frmLogin.resources
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.FrmSignUp.resources
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.Properties.Resources.resources
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\bin\Debug\ders_16_login_project.exe.config
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\bin\Debug\ders_16_login_project.exe
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\bin\Debug\ders_16_login_project.pdb
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.exe
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.pdb
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.FrmForgotPassword.resources
+C:\Users\Asus\source\repos\ders_16_login_project\ders_16_login_project\obj\Debug\ders_16_login_project.FrmDashboard.resources
