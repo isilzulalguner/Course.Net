@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\bin\Debug\ders_18_student_project.exe.config
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\bin\Debug\ders_18_student_project.exe
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\bin\Debug\ders_18_student_project.pdb
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.FrmDashboard.resources
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.Properties.Resources.resources
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.exe
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.pdb
+C:\Users\Asus\source\repos\ders_18_student_project\ders_18_student_project\obj\Debug\ders_18_student_project.FrmUpdateDetail.resources
